@@ -7,7 +7,7 @@ to work on with other HIBALL team members.
 
 For a smooth organisation and communication please [register](https://events.hifis.net/event/814/).
 
-🤝 Please post your ideas for short collaborative projects as issues. You need to have a GitHub account in order to do so.
+🤝 Please post your ideas for short collaborative projects as [issues](https://github.com/FZJ-INM1-BDA/HIBALL-Hackathon-2023/issues). You need to have a GitHub account in order to do so.
 
 💡 Feel free to start a rough description of your idea as a new git issue and discuss with potential collaborators.
 
